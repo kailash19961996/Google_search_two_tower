@@ -4,7 +4,10 @@
 
 In this project, I have developed a search engine optimization (SEO) system that mimics the core functionality of Google Search. The system leverages Recurrent Neural Networks (RNNs) for semantic understanding of queries and documents, and a two-tower architecture for efficient ranking and retrieval.
 
-For full video : ([https://youtu.be/GE4cgfvCaDk](https://youtu.be/m33KE2GN9K8?si=Q0a0B2tHsnzNvpgc))
+
+[Click here to see the full video tutorial](https://youtu.be/m33KE2GN9K8?si=Q0a0B2tHsnzNvpgc)
+
+[![Watch the video](https://youtu.be/m33KE2GN9K8?si=Q0a0B2tHsnzNvpgc)
 
 ## Key Features
 
