@@ -7,8 +7,6 @@ In this project, I have developed a search engine optimization (SEO) system that
 
 [Click here to see the full video tutorial](https://youtu.be/m33KE2GN9K8?si=Q0a0B2tHsnzNvpgc)
 
-[![Watch the video](https://youtu.be/m33KE2GN9K8?si=Q0a0B2tHsnzNvpgc)
-
 ## Key Features
 
 1. **RNN-based Semantic Understanding**: The system uses RNNs to capture the contextual meaning and relationships within queries and documents, enabling more accurate semantic matching.
